@@ -1,0 +1,7 @@
+com/example/android/droidcafeinput/OrderActivity.java
+ com.example.android.droidcafeinput.OrderActivity
+com/example/android/droidcafeinput/BuildConfig.java
+ com.example.android.droidcafeinput.BuildConfig
+com/example/android/droidcafeinput/MainActivity.java
+ com.example.android.droidcafeinput.MainActivity
+ com.example.android.droidcafeinput.MainActivity$1

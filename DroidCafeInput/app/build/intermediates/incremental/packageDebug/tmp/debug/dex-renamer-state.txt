@@ -1,0 +1,4 @@
+#Fri Oct 15 11:10:45 ICT 2021
+base.0=E\:\\Android\\new\\android-fundamentals-apps-v2\\DroidCafeInput\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
